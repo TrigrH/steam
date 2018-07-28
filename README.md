@@ -42,8 +42,11 @@ DONE!
 #### Easy mode (no auto startup):
 
 Use the shortcut provided to open steam (move it to desktop or something).
+
 In steam go: View > Settings > Interface
+
 Untick "Run Steam when my computer starts"
+
 Done!
 
 #### Advanced mode (with auto startup):
@@ -85,4 +88,3 @@ On the settings tab untick "Stop the task if it runs longer than:"
 press ok
 
 Done!
-
