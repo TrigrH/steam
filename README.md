@@ -1,6 +1,6 @@
 ### Steam Notification Location + how to restore old friends list layout
 
-1. Extract/copy the two folders:
+(1.) Extract/copy the two folders:
 
 	images
 	
@@ -13,7 +13,7 @@ to your steam folder (default locations below):
 
 it may ask to merge the skins folder, allow it.
 
-2. In steam go: View > Settings > Interface
+(2.) In steam go: View > Settings > Interface
 
 Select the skin you wish Steam to use (requires Steam to restart)
 
