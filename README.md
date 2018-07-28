@@ -8,8 +8,8 @@
 
 to your steam folder (default locations below): 
 
-64bit: C:\Program Files (x86)\Steam\
-32bit: C:\Program Files\Steam\
+	64bit: C:\Program Files (x86)\Steam\
+	32bit: C:\Program Files\Steam\
 
 it may ask to merge the skins folder, allow it.
 
@@ -31,22 +31,22 @@ Press ok then press Restart Steam.
 
 DONE!
 
--by TrigrH (add me on steam if you need help)
+	-by TrigrH (add me on steam if you need help)
 
-Note: big picture mode and announcement buttons are intentionally hidden.
+	Note: big picture mode and announcement buttons are intentionally hidden.
 
 
 ### HOW TO RESTORE THE OLD FRIENDS LIST STYLE (RECOMENDED)
 
 
-# Easy mode (no auto startup):
+#### Easy mode (no auto startup):
 
 Use the shortcut provided to open steam (move it to desktop or something).
 In steam go: View > Settings > Interface
 Untick "Run Steam when my computer starts"
 Done!
 
-# Advanced mode (with auto startup):
+#### Advanced mode (with auto startup):
 
 In steam go: View > Settings > Interface
 
