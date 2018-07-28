@@ -27,9 +27,9 @@ DONE!
 
 Note: big picture mode and announcement buttons are intentionally hidden.
 
-----------------------------------------------------------------------------
+
 HOW TO RESTORE THE OLD FRIENDS LIST STYLE (RECOMENDED)
-----------------------------------------------------------------------------
+
 
 Easy mode (no auto startup):
 
@@ -59,4 +59,4 @@ Untick everything you can on the Conditions tab
 On the settings tab untick "Stop the task if it runs longer than:"
 press ok
 Done!
-----------------------------------------------------------------------------
+
