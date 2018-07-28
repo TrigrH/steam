@@ -1,6 +1,9 @@
+### Steam Notification Location + how to restore old friends list layout
+
 1. Extract/copy the two folders:
 
 	images
+	
 	skins
 
 to your steam folder (default locations below): 
@@ -13,10 +16,15 @@ it may ask to merge the skins folder, allow it.
 2. In steam go: View > Settings > Interface
 
 Select the skin you wish Steam to use (requires Steam to restart)
+
 	Pick one:
+	
 	Steam-BottomLeft
+	
 	Steam-TopLeft
+	
 	Steam-TopRight
+	
 	Steam-BottomRight (styling tweaks only)
 
 Press ok then press Restart Steam.
@@ -28,17 +36,17 @@ DONE!
 Note: big picture mode and announcement buttons are intentionally hidden.
 
 
-HOW TO RESTORE THE OLD FRIENDS LIST STYLE (RECOMENDED)
+### HOW TO RESTORE THE OLD FRIENDS LIST STYLE (RECOMENDED)
 
 
-Easy mode (no auto startup):
+# Easy mode (no auto startup):
 
 Use the shortcut provided to open steam (move it to desktop or something).
 In steam go: View > Settings > Interface
 Untick "Run Steam when my computer starts"
 Done!
 
-Advanced mode (with auto startup):
+# Advanced mode (with auto startup):
 
 In steam go: View > Settings > Interface
 
