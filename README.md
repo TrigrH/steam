@@ -41,22 +41,40 @@ Done!
 Advanced mode (with auto startup):
 
 In steam go: View > Settings > Interface
+
 Untick "Run Steam when my computer starts"
+
 Open Task Scheduler using the shortcut provided.
+
 At the top press Action > Create task...
+
 In the name box call it "admin steam on login"
+
 Tick "Run with highest privileges"
+
 On the Triggers tab press New...
+
 Set "Begin the task:" to "At log on"
+
 Press ok
+
 On the Actions tab press New...
+
 Press Browse...
+
 Find your steam.exe (C:\Program Files (x86)\Steam\steam.exe) - default
+
 In the "Add arguments (optional):" box put:
+
 -nofriendsui
+
 press ok
+
 Untick everything you can on the Conditions tab
+
 On the settings tab untick "Stop the task if it runs longer than:"
+
 press ok
+
 Done!
 
