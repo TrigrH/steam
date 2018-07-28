@@ -1,5 +1,12 @@
 ### Steam Notification Location + how to restore old friends list layout
 
+	Installing this "skin" adjusts a few colours and buttons so when you enable the old friends list (instructions below) 
+	it looks much cleaner. Also with the option to set which corner your steam nofications appear from!
+	
+	Take a look:
+	https://i.imgur.com/NvcXpu7.png
+	https://i.imgur.com/8vqwHPD.png
+
 (1.) Extract/copy the two folders:
 
 	images
