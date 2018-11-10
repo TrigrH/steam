@@ -84,7 +84,7 @@ Find your steam.exe (C:\Program Files (x86)\Steam\steam.exe) - default
 
 In the "Add arguments (optional):" box put:
 
--nofriendsui
+-steamos
 
 press ok
 
